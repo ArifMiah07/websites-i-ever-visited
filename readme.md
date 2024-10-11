@@ -9,6 +9,7 @@ This repository is a curated list of websites I have visited, categorized by the
   - [Development Tools](#development-tools)
   - [Design & Creativity](#design--creativity)
   - [Miscellaneous Tools & Communities](#miscellaneous-tools--communities)
+  - [Security & Penetration Testing](#security--penetration-testing)
 - [How to Contribute](#how-to-contribute)
 - [Acknowledgments](#acknowledgments)
 
@@ -25,17 +26,21 @@ The goal of this repository is to document and share noteworthy websites that ha
   - [Development Tools](#development-tools)
   - [Design & Creativity](#design--creativity)
   - [Miscellaneous Tools & Communities](#miscellaneous-tools--communities)
+  - [Security & Penetration Testing](#security--penetration-testing)
 
 ---
 
 ### 🌱 Educational
 Platforms and resources that offer learning and tutorials for developers, designers, and tech enthusiasts:
+- **[daily.dev](https://www.daily.dev)** - A platform offering curated daily news and updates for developers.
+- **[dev.to](https://www.dev.to)** - A community of developers sharing articles, discussions, and projects.
 - **[chatgpt.com](https://www.chatgpt.com)** - AI-powered tool for learning and problem-solving.
 - **[youtube.com](https://www.youtube.com)** - Video tutorials, courses, and guides on various topics.
-- **[codepen.io](https://codepen.io)** - Front-end playground to experiment with code and learn new techniques.
+- **[codepen.io](https://www.codepen.io)** - Front-end playground to experiment with code and learn new techniques.
 
 ### 💻 Development Tools
 Tools and platforms essential for web and software development:
+- **[huggingface.co](https://www.huggingface.co)** - Platform for NLP and AI models and tools.
 - **[github.com](https://www.github.com)** - Version control and collaborative coding.
 - **[mongodb.com](https://www.mongodb.com)** - NoSQL database for managing large-scale data.
 - **[npmjs.com](https://www.npmjs.com)** - Node Package Manager, a hub for JavaScript packages.
@@ -46,11 +51,17 @@ Tools and platforms essential for web and software development:
 
 ### 🎨 Design & Creativity
 Websites for design inspiration, prototyping, and creativity:
+- **[ideogram.ai](https://www.ideogram.ai)** - AI tool for generating creative images with text input.
+- **[leonardo.ai](https://www.leonardo.ai)** - AI-powered platform for creative design and image generation.
 - **[figma.com](https://www.figma.com)** - Collaborative design and prototyping tool.
 
 ### 🔧 Miscellaneous Tools & Communities
 Additional websites that offer unique utilities or communities:
 - **[reddit.com](https://www.reddit.com)** - Community-driven discussions and resources on various topics.
+
+### 🔒 Security & Penetration Testing
+For websites and tools focused on security, hacking, and penetration testing:
+- **[kalilinux.org](https://www.kali.org)** - Penetration testing and security-focused Linux distribution.
 
 (*... more websites to be added as I continue my journey...*)
 
