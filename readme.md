@@ -1,10 +1,14 @@
 # 🌐 Website I Ever Visited
 
-This repository is a curated list of websites I have visited, showcasing valuable resources, tools, and inspirations across the web. From educational platforms to productivity tools and creative websites, each entry represents something unique that has contributed to my knowledge and growth.
+This repository is a curated list of websites I have visited, categorized by their purpose and usage. It showcases valuable resources, tools, and inspirations across the web. From educational platforms to development tools and design resources, each entry represents something unique that has contributed to my knowledge and growth.
 
 ## 📑 Table of Contents
 - [Purpose](#purpose)
 - [Categories](#categories)
+  - [Educational](#educational)
+  - [Development Tools](#development-tools)
+  - [Design & Creativity](#design--creativity)
+  - [Miscellaneous Tools & Communities](#miscellaneous-tools--communities)
 - [How to Contribute](#how-to-contribute)
 - [Acknowledgments](#acknowledgments)
 
@@ -16,13 +20,41 @@ The goal of this repository is to document and share noteworthy websites that ha
 
 ## 📂 Categories
 
-The websites are categorized as follows:
+## 📑 Table of Categories
+  - [Educational](#educational)
+  - [Development Tools](#development-tools)
+  - [Design & Creativity](#design--creativity)
+  - [Miscellaneous Tools & Communities](#miscellaneous-tools--communities)
 
-- **Educational**: Platforms that offer tutorials, online courses, and other learning materials.
-- **Development Tools**: Tools, frameworks, and libraries that assist in web or software development.
-- **Design & Creativity**: Inspiration for design, UI/UX, and artistic projects.
-- **Productivity**: Tools to help improve focus, time management, and workflow efficiency.
-- **AI & Machine Learning**: Websites related to AI tools, research, and innovations.
+---
+
+### 🌱 Educational
+Platforms and resources that offer learning and tutorials for developers, designers, and tech enthusiasts:
+- **[chatgpt.com](https://www.chatgpt.com)** - AI-powered tool for learning and problem-solving.
+- **[youtube.com](https://www.youtube.com)** - Video tutorials, courses, and guides on various topics.
+- **[codepen.io](https://codepen.io)** - Front-end playground to experiment with code and learn new techniques.
+
+### 💻 Development Tools
+Tools and platforms essential for web and software development:
+- **[github.com](https://www.github.com)** - Version control and collaborative coding.
+- **[mongodb.com](https://www.mongodb.com)** - NoSQL database for managing large-scale data.
+- **[npmjs.com](https://www.npmjs.com)** - Node Package Manager, a hub for JavaScript packages.
+- **[reactrouter.com](https://reactrouter.com)** - Declarative routing for React applications.
+- **[reactjs.org](https://reactjs.org)** - JavaScript library for building user interfaces.
+- **[tailwindcss.com](https://www.tailwindcss.com)** - Utility-first CSS framework for rapid UI development.
+- **[daisyui.com](https://www.daisyui.com)** - Tailwind CSS components for building beautiful interfaces.
+
+### 🎨 Design & Creativity
+Websites for design inspiration, prototyping, and creativity:
+- **[figma.com](https://www.figma.com)** - Collaborative design and prototyping tool.
+
+### 🔧 Miscellaneous Tools & Communities
+Additional websites that offer unique utilities or communities:
+- **[reddit.com](https://www.reddit.com)** - Community-driven discussions and resources on various topics.
+
+(*... more websites to be added as I continue my journey...*)
+
+---
 
 ## 🚀 How to Contribute
 
@@ -35,6 +67,8 @@ If you know of an amazing website that fits one of the categories above or would
 4. Commit your changes: `git commit -m 'Added XYZ website'`.
 5. Push your branch: `git push origin feature/my-website`.
 6. Submit a pull request.
+
+---
 
 ## 🙏 Acknowledgments
 
