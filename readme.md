@@ -48,6 +48,7 @@ Tools and platforms essential for web and software development:
 - **[reactjs.org](https://reactjs.org)** - JavaScript library for building user interfaces.
 - **[tailwindcss.com](https://www.tailwindcss.com)** - Utility-first CSS framework for rapid UI development.
 - **[daisyui.com](https://www.daisyui.com)** - Tailwind CSS components for building beautiful interfaces.
+- **[firebase.google.com](https://firebase.google.com/)** - Firebase for auth and hosting
 
 ### 🎨 Design & Creativity
 Websites for design inspiration, prototyping, and creativity:
