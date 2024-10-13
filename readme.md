@@ -57,6 +57,8 @@ Websites for design inspiration, prototyping, and creativity:
 - **[ideogram.ai](https://www.ideogram.ai)** - AI tool for generating creative images with text input.
 - **[leonardo.ai](https://www.leonardo.ai)** - AI-powered platform for creative design and image generation.
 - **[figma.com](https://www.figma.com)** - Collaborative design and prototyping tool.
+- **[themeforest.net/](https://themeforest.net/)** -
+- **[unsplash.com/](https://unsplash.com/)** - 
 
 ### 🔧 Miscellaneous Tools & Communities
 Additional websites that offer unique utilities or communities:
