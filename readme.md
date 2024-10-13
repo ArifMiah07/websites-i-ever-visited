@@ -38,7 +38,9 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[youtube.com](https://www.youtube.com)** - Video tutorials, courses, and guides on various topics.
 - **[codepen.io](https://www.codepen.io)** - Front-end playground to experiment with code and learn new techniques.
 - **[store.steampowered.com/](https://store.steampowered.com/)** -
-- **[phaser.io/](https://phaser.io/learn)** - 
+- **[phaser.io/](https://phaser.io/learn)** -
+- **[codesandbox.io](https://codesandbox.io/)** -
+- **[swiperjs.com](https://swiperjs.com/)** - 
 
 ### 💻 Development Tools
 Tools and platforms essential for web and software development:
