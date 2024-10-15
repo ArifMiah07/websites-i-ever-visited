@@ -60,7 +60,8 @@ Websites for design inspiration, prototyping, and creativity:
 - **[leonardo.ai](https://www.leonardo.ai)** - AI-powered platform for creative design and image generation.
 - **[figma.com](https://www.figma.com)** - Collaborative design and prototyping tool.
 - **[themeforest.net/](https://themeforest.net/)** -
-- **[unsplash.com/](https://unsplash.com/)** - 
+- **[unsplash.com/](https://unsplash.com/)** -
+- **[pixso.net](https://pixso.net/)** - 
 
 ### 🔧 Miscellaneous Tools & Communities
 Additional websites that offer unique utilities or communities:
