@@ -65,6 +65,13 @@ Websites for design inspiration, prototyping, and creativity:
 - **[unsplash.com/](https://unsplash.com/)** -
 - **[pixso.net](https://pixso.net/)** -
 - **[draw.io](https://app.diagrams.net/)** -
+- **[Image Generator](#imgae_generator)** -
+    - **[]()** -
+    - **[]()** -
+    - **[]()** -
+- **[Video Generator](#video_generator)** -
+    - **[runwayml.com/](https://app.runwayml.com/)** -
+- **[]()** -
 
 ### 🔧 Miscellaneous Tools & Communities
 Additional websites that offer unique utilities or communities:
