@@ -78,6 +78,7 @@ Websites for design inspiration, prototyping, and creativity:
     - **[pixai.art](https://pixai.art/)** -
     - **[pikaso](https://www.freepik.com/pikaso)** -
     - **[flux-1](https://flux-1.ai/flux-ai-image-generator/)** -
+    - **[craiyon](https://www.craiyon.com/)** - 
 - **[Video Generator](#video_generator)** -
     - **[runwayml.com/](https://app.runwayml.com/)** -
     - **[fliki.ai/](https://app.fliki.ai/)** -
