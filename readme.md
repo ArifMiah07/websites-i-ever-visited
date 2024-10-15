@@ -73,7 +73,7 @@ Additional websites that offer unique utilities or communities:
 ### 🔒 Security & Penetration Testing
 For websites and tools focused on security, hacking, and penetration testing:
 - **[kalilinux.org](https://www.kali.org)** - Penetration testing and security-focused Linux distribution.
-- **[Darkweb](#darkweb)** - 
+- **[Darkweb (ensure safty first)](#darkweb)** - 
   - **[hidden.wiki/](https://hidden.wiki/)** -
   - **[ahmia.fi/](https://ahmia.fi/)** -
   - **[tor.link/site/not-evil/info](https://tor.link/site/not-evil/info)** -
