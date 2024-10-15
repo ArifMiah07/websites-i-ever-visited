@@ -43,6 +43,7 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[codesandbox.io](https://codesandbox.io/)** -
 - **[free-for.dev](https://free-for.dev/#/?id=font)** - A great site for devs with awesome data collections
 - **[webdevscom](https://webdevscom.github.io/)** - Access Hundreds of Resources in One Place.
+- **[cs50.dev](https://cs50.dev/)** - 
  
 
 ### 💻 Development Tools
