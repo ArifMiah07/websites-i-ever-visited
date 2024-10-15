@@ -41,7 +41,8 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[store.steampowered.com/](https://store.steampowered.com/)** -
 - **[phaser.io/](https://phaser.io/learn)** -
 - **[codesandbox.io](https://codesandbox.io/)** -
-- **[free-for.dev](https://free-for.dev/#/?id=font)** - 
+- **[free-for.dev](https://free-for.dev/#/?id=font)** -
+- **[webdevscom](https://webdevscom.github.io/)** - A great site for devs
  
 
 ### 💻 Development Tools
