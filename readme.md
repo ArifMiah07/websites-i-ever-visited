@@ -41,7 +41,7 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[store.steampowered.com/](https://store.steampowered.com/)** -
 - **[phaser.io/](https://phaser.io/learn)** -
 - **[codesandbox.io](https://codesandbox.io/)** -
-- **[free-for.dev](https://free-for.dev/#/?id=font)** - A great site for devs with awesome data collections
+- **[free-for.dev](https://free-for.dev/#/?id=font)** - free-for.dev Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
 - **[webdevscom](https://webdevscom.github.io/)** - Access Hundreds of Resources in One Place.
 - **[cs50.dev](https://cs50.dev/)** -
 - **[manual.cs50](https://manual.cs50.io/)** - 
