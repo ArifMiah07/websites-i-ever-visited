@@ -63,6 +63,8 @@ Tools and platforms essential for web and software development:
 - **[swiperjs.com](https://swiperjs.com/)** -
 - **[lit.dev](https://lit.dev/)** -
 - **[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)** -
+- **[framer](https://www.framer.com/)** -
+- **[jina.ai](https://jina.ai/)** -
 
 
 ### 🎨 Design & Creativity
@@ -82,6 +84,8 @@ Websites for design inspiration, prototyping, and creativity:
 - **[Video Generator](#video_generator)** -
     - **[runwayml.com/](https://app.runwayml.com/)** -
     - **[fliki.ai/](https://app.fliki.ai/)** -
+    - **[](https://hailuoai.video/)** -
+    - **[klingai](https://klingai.com/)** -
 - **[]()** -
 
 ### 🔧 Miscellaneous Tools & Communities
