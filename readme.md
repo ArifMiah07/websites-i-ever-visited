@@ -53,6 +53,7 @@ Tools and platforms essential for web and software development:
 - **[tailwindcss.com](https://www.tailwindcss.com)** - Utility-first CSS framework for rapid UI development.
 - **[daisyui.com](https://www.daisyui.com)** - Tailwind CSS components for building beautiful interfaces.
 - **[firebase.google.com](https://firebase.google.com/)** - Firebase for auth and hosting
+- **[react-select.com](https://react-select.com/home)** - 
 
 ### 🎨 Design & Creativity
 Websites for design inspiration, prototyping, and creativity:
