@@ -71,6 +71,7 @@ Websites for design inspiration, prototyping, and creativity:
     - **[]()** -
 - **[Video Generator](#video_generator)** -
     - **[runwayml.com/](https://app.runwayml.com/)** -
+    - **[fliki.ai/](https://app.fliki.ai/)** -
 - **[]()** -
 
 ### 🔧 Miscellaneous Tools & Communities
