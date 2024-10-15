@@ -41,7 +41,7 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[store.steampowered.com/](https://store.steampowered.com/)** -
 - **[phaser.io/](https://phaser.io/learn)** -
 - **[codesandbox.io](https://codesandbox.io/)** -
-- **[free-for.dev](https://free-for.dev/#/?id=font)** -
+- **[free-for.dev](https://free-for.dev/#/?id=font)** - A great site for devs with awesome data collections
 - **[webdevscom](https://webdevscom.github.io/)** - A great site for devs
  
 
@@ -58,6 +58,8 @@ Tools and platforms essential for web and software development:
 - **[firebase.google.com](https://firebase.google.com/)** - Firebase for auth and hosting
 - **[react-select.com](https://react-select.com/home)** -
 - **[swiperjs.com](https://swiperjs.com/)** -
+- **[lit.dev](https://lit.dev/)** -
+
 
 ### 🎨 Design & Creativity
 Websites for design inspiration, prototyping, and creativity:
