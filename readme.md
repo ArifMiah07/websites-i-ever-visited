@@ -84,7 +84,7 @@ Websites for design inspiration, prototyping, and creativity:
 - **[Video Generator](#video_generator)** -
     - **[runwayml.com/](https://app.runwayml.com/)** -
     - **[fliki.ai/](https://app.fliki.ai/)** -
-    - **[](https://hailuoai.video/)** -
+    - **[hailuoai](https://hailuoai.video/)** -
     - **[klingai](https://klingai.com/)** -
 - **[]()** -
 
