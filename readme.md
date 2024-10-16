@@ -39,13 +39,13 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[youtube.com](https://www.youtube.com)** - Video tutorials, courses, and guides on various topics.
 - **[codepen.io](https://www.codepen.io)** - Front-end playground to experiment with code and learn new techniques.
 - **[store.steampowered.com/](https://store.steampowered.com/)** -
-- **[phaser.io/](https://phaser.io/learn)** -
-- **[codesandbox.io](https://codesandbox.io/)** -
+- **[phaser.io/](https://phaser.io/learn)** - Game development tutorials.
+- **[codesandbox.io](https://codesandbox.io/)** - Online code editor.
 - **[free-for.dev](https://free-for.dev/#/?id=font)** - free-for.dev Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
 - **[webdevscom](https://webdevscom.github.io/)** - Access Hundreds of Resources in One Place.
-- **[cs50.dev](https://cs50.dev/)** -
-- **[manual.cs50](https://manual.cs50.io/)** -
-- **[huggingface](https://huggingface.co/)** -
+- **[cs50.dev](https://cs50.dev/)** - CS50 course materials.
+- **[manual.cs50](https://manual.cs50.io/)** - cs50 c programming manuals
+- **[huggingface](https://huggingface.co/)** - AI and NLP platform.
  
 
 ### 💻 Development Tools
@@ -59,11 +59,11 @@ Tools and platforms essential for web and software development:
 - **[tailwindcss.com](https://www.tailwindcss.com)** - Utility-first CSS framework for rapid UI development.
 - **[daisyui.com](https://www.daisyui.com)** - Tailwind CSS components for building beautiful interfaces.
 - **[firebase.google.com](https://firebase.google.com/)** - Firebase for auth and hosting
-- **[react-select.com](https://react-select.com/home)** -
-- **[swiperjs.com](https://swiperjs.com/)** -
-- **[lit.dev](https://lit.dev/)** -
-- **[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)** -
-- **[framer](https://www.framer.com/)** -
+- **[react-select.com](https://react-select.com/home)** - Select dropdown component.
+- **[swiperjs.com](https://swiperjs.com/)** - Touch slider framework.
+- **[lit.dev](https://lit.dev/)** -  Web component library.
+- **[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)** - Design resources hub for developers.
+- **[framer](https://www.framer.com/)** - 
 - **[jina.ai](https://jina.ai/)** -
 
 
