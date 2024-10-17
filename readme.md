@@ -46,7 +46,7 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[cs50.dev](https://cs50.dev/)** - CS50 course materials.
 - **[manual.cs50](https://manual.cs50.io/)** - cs50 c programming manuals
 - **[huggingface](https://huggingface.co/)** - AI and NLP platform.
-- **[theanarchistlibrary.org](https://theanarchistlibrary.org/category/topic)** - 
+- **[theanarchistlibrary.org](https://theanarchistlibrary.org/category/topic)** - Anarchist archives preserve records from the international anarchist movement in personal and institutional collections around the world. 
  
 
 ### 💻 Development Tools
