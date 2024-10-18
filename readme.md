@@ -66,6 +66,7 @@ Tools and platforms essential for web and software development:
 - **[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)** - Design resources hub for developers.
 - **[framer](https://www.framer.com/)** - 
 - **[jina.ai](https://jina.ai/)** -
+- **[awesome-react-components](https://github.com/brillout/awesome-react-components?tab=readme-ov-file)** - 
 
 
 ### 🎨 Design & Creativity
