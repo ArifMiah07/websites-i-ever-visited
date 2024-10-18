@@ -49,7 +49,7 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[theanarchistlibrary.org](https://theanarchistlibrary.org/category/topic)** - Anarchist archives preserve records from the international anarchist movement in personal and institutional collections around the world. 
 - **[arxiv](https://arxiv.org/)** -
 - **[pubmed](https://pubmed.ncbi.nlm.nih.gov/)** -
-- **[]()** -
+- **[eloquentjavascript](https://eloquentjavascript.net/)** -
 - **[]()** -
 - 
  
