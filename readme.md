@@ -93,7 +93,7 @@ Websites for design inspiration, prototyping, and creativity:
     - **[fliki.ai/](https://app.fliki.ai/)** -
     - **[hailuoai](https://hailuoai.video/)** -
     - **[klingai](https://klingai.com/)** -
-- **[]()** -
+    - **[react-icons](https://react-icons.github.io/react-icons/)** -
 
 ### 🔧 Miscellaneous Tools & Communities
 Additional websites that offer unique utilities or communities:
