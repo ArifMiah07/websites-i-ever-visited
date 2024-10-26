@@ -51,7 +51,7 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[pubmed](https://pubmed.ncbi.nlm.nih.gov/)** -
 - **[eloquentjavascript](https://eloquentjavascript.net/)** -
 - **[92 Markdown Editors](https://www.getfreeebooks.com/markdown-editors-and-tools-for-all-your-writing-needs/)** - 92 Markdown Editors and Tools for All Your Writing Needs
-- **[discord](https://discord.com/)** -
+- **[discord](https://discord.com/)** - Discord is great for playing games and chilling with friends, or even building a worldwide community.
  
 
 ### 💻 Development Tools
