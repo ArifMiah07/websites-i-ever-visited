@@ -55,6 +55,14 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[genial-code.com](https://genial-code.com/)** - Download Programming Books Free PDF for a valuable resource in enhancing your coding skills. Explore the world of programming for free! | Free download latest project source code in Python, machine learning, php, html , artificial intelligence, asp .net and programming books.
 - **[element.io](https://app.element.io/)** - Element is a Matrix-based end-to-end encrypted messenger and secure collaboration app. It's decentralised for digital sovereign self-hosting, or through a ...
 - <details>
+  <summary><b><u><span style="color: blue;">C</span></u></b><span> - C programming Documentations</span></summary>
+
+  - C Documentations
+    - **[]()** -
+    - **[]()** -
+    - **[]()** - 
+  </details>
+- <details>
   <summary><b><u><span style="color: blue;">Javascript</span></u></b><span> - Javascript Documentations</span></summary>
   
   - Javascript Documentations
@@ -70,6 +78,46 @@ Platforms and resources that offer learning and tutorials for developers, design
     - **[devdocs.io/python](https://devdocs.io/python~3.13/)** -
     - **[w3schools.com/python](https://www.w3schools.com/python/default.asp)** - 
   </details>
+- <details>
+  <summary><b><u><span style="color: blue;">Typescript</span></u></b><span> - Typescript Documentations</span></summary>
+
+  - Typescript Documentations
+    - **[]()** -
+    - **[]()** -
+    - **[]()** - 
+  </details>
+- <details>
+  <summary><b><u><span style="color: blue;">Java</span></u></b><span> - Java Documentations</span></summary>
+
+  - Java Documentations
+    - **[]()** -
+    - **[]()** -
+    - **[]()** - 
+  </details>
+  - <details>
+  <summary><b><u><span style="color: blue;">C++</span></u></b><span> - C++ Documentations</span></summary>
+
+  - C++ Documentations
+    - **[]()** -
+    - **[]()** -
+    - **[]()** - 
+  </details>
+  - <details>
+  <summary><b><u><span style="color: blue;">C#</span></u></b><span> - C# Documentations</span></summary>
+
+  - C# Documentations
+    - **[]()** -
+    - **[]()** -
+    - **[]()** - 
+  </details>
+<--! - <details>
+  <summary><b><u><span style="color: blue;">Python</span></u></b><span> - Python Documentations</span></summary>
+
+  - Python Documentations
+    - **[python.org](https://docs.python.org/)** -
+    - **[devdocs.io/python](https://devdocs.io/python~3.13/)** -
+    - **[w3schools.com/python](https://www.w3schools.com/python/default.asp)** - 
+  </details> -->
 - **[devdocs.io/](https://devdocs.io/)** - Collection of Programming language documentations
 - **[]()** -
 - **[]()** - 
