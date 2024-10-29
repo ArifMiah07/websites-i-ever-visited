@@ -124,6 +124,7 @@ Tools and platforms essential for web and software development:
 - **[reactrouter.com](https://reactrouter.com)** - Declarative routing for React applications.
 - **[reactjs.org](https://reactjs.org)** - JavaScript library for building user interfaces.
 - **[react.dev](https://react.dev/)** -
+- **[reactnative.dev](https://reactnative.dev/)** - 
 - **[typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)** - 
 - **[tailwindcss.com](https://www.tailwindcss.com)** - Utility-first CSS framework for rapid UI development.
 - **[daisyui.com](https://www.daisyui.com)** - Tailwind CSS components for building beautiful interfaces.
