@@ -98,9 +98,9 @@ Platforms and resources that offer learning and tutorials for developers, design
   <summary><b><u><span style="color: blue;">C++</span></u></b><span> - C++ Documentations</span></summary>
 
   - C++ Documentations
-    - **[]()** -
-    - **[]()** -
-    - **[]()** - 
+    - **[cplusplus.com/doc](https://cplusplus.com/doc/)** -
+    - **[cppreference.com](https://en.cppreference.com/w/)** -
+    - **[devdocs.io/cpp](https://devdocs.io/cpp/)** - 
   </details>
   - <details>
   <summary><b><u><span style="color: blue;">C#</span></u></b><span> - C# Documentations</span></summary>
@@ -118,7 +118,7 @@ Platforms and resources that offer learning and tutorials for developers, design
     - **[devdocs.io/python](https://devdocs.io/python~3.13/)** -
     - **[w3schools.com/python](https://www.w3schools.com/python/default.asp)** - 
   </details> -->
-- **[devdocs.io/](https://devdocs.io/)** - Collection of Programming language documentations
+- **[devdocs.io](https://devdocs.io/)** - Collection of Programming language documentations
 - **[]()** -
 - **[]()** - 
  
