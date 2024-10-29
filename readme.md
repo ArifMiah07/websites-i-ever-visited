@@ -56,6 +56,7 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[element.io](https://app.element.io/)** - Element is a Matrix-based end-to-end encrypted messenger and secure collaboration app. It's decentralised for digital sovereign self-hosting, or through a ...
 - <details>
   <summary><b><u><span style="color: blue;">Javascript</span></u></b><span> - Javascript Documentations</span></summary>
+  
   - Javascript Documentations
     - **[ecma-international.org](https://262.ecma-international.org/)** -
     - **[mozilla/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** -
