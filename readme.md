@@ -55,7 +55,7 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[genial-code.com](https://genial-code.com/)** - Download Programming Books Free PDF for a valuable resource in enhancing your coding skills. Explore the world of programming for free! | Free download latest project source code in Python, machine learning, php, html , artificial intelligence, asp .net and programming books.
 - **[element.io](https://app.element.io/)** - Element is a Matrix-based end-to-end encrypted messenger and secure collaboration app. It's decentralised for digital sovereign self-hosting, or through a ...
 - <details> - js web doc
-  <summary>**Javascript**</summary>
+  <summary><b>Javascript</b></summary>
   
   - Javascript Documentations
     - **[ecma-international.org](https://262.ecma-international.org/)** -
