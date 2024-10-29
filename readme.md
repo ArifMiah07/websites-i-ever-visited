@@ -94,7 +94,7 @@ Platforms and resources that offer learning and tutorials for developers, design
     - **[]()** -
     - **[]()** - 
   </details>
-  - <details>
+- <details>
   <summary><b><u><span style="color: blue;">C++</span></u></b><span> - C++ Documentations</span></summary>
 
   - C++ Documentations
@@ -105,7 +105,7 @@ Platforms and resources that offer learning and tutorials for developers, design
   - <details>
   <summary><b><u><span style="color: blue;">C#</span></u></b><span> - C# Documentations</span></summary>
 
-  - C# Documentations
+- C# Documentations
     - **[]()** -
     - **[]()** -
     - **[]()** - 
