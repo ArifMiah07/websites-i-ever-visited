@@ -102,22 +102,14 @@ Platforms and resources that offer learning and tutorials for developers, design
     - **[cppreference.com](https://en.cppreference.com/w/)** -
     - **[devdocs.io/cpp](https://devdocs.io/cpp/)** - 
   </details>
-  - <details>
+- <details>
   <summary><b><u><span style="color: blue;">C#</span></u></b><span> - C# Documentations</span></summary>
 
-- C# Documentations
+  - C# Documentations
     - **[]()** -
     - **[]()** -
     - **[]()** - 
   </details>
-<--! - <details>
-  <summary><b><u><span style="color: blue;">Python</span></u></b><span> - Python Documentations</span></summary>
-
-  - Python Documentations
-    - **[python.org](https://docs.python.org/)** -
-    - **[devdocs.io/python](https://devdocs.io/python~3.13/)** -
-    - **[w3schools.com/python](https://www.w3schools.com/python/default.asp)** - 
-  </details> -->
 - **[devdocs.io](https://devdocs.io/)** - Collection of Programming language documentations
 - **[]()** -
 - **[]()** - 
