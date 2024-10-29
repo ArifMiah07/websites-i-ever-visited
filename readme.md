@@ -62,6 +62,14 @@ Platforms and resources that offer learning and tutorials for developers, design
     - **[mozilla/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** -
     - **[devdocs.io/javascript/](https://devdocs.io/javascript/)** - 
   </details>
+- <details>
+  <summary><b><u><span style="color: blue;">Python</span></u></b><span> - Python Documentations</span></summary>
+
+  - Python Documentations
+    - **[python.org](https://docs.python.org/)** -
+    - **[devdocs.io/python](https://devdocs.io/python~3.13/)** -
+    - **[w3schools.com/python](https://www.w3schools.com/python/default.asp)** - 
+  </details>
 - **[devdocs.io/](https://devdocs.io/)** - Collection of Programming language documentations
 - **[]()** -
 - **[]()** - 
