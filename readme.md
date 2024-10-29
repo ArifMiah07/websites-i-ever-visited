@@ -128,7 +128,8 @@ Tools and platforms essential for web and software development:
 - **[ant.design](https://ant.design/)** -
 - **[nextjs.org](https://nextjs.org/)** -
 - **[material-ui](https://mui.com/material-ui/)** -
-- **[storybook.js](https://storybook.js.org/)** - 
+- **[storybook.js](https://storybook.js.org/)** -
+- **[nextchat.dev](https://app.nextchat.dev/)** - 
 - **[typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)** - 
 - **[tailwindcss.com](https://www.tailwindcss.com)** - Utility-first CSS framework for rapid UI development.
 - **[daisyui.com](https://www.daisyui.com)** - Tailwind CSS components for building beautiful interfaces.
