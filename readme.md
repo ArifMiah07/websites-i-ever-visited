@@ -142,7 +142,17 @@ Tools and platforms essential for web and software development:
 - **[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)** - Design resources hub for developers.
 - **[framer](https://www.framer.com/)** - 
 - **[jina.ai](https://jina.ai/)** -
-- **[awesome-react-components](https://github.com/brillout/awesome-react-components?tab=readme-ov-file)** - 
+- **[awesome-react-components](https://github.com/brillout/awesome-react-components?tab=readme-ov-file)** -
+- <details>
+  <summary><b><u><span style="color: blue;">CSS</span></u></b><span> - CSS Frameworks</span></summary>
+
+  - CSS Frameworks
+    - **[Bootstrap 5](https://getbootstrap.com)** -
+    - **[Foundation](https://get.foundation)** -
+    - **[Bulma](https://bulma.io)** -
+    - **[Reflexgrid](https://reflexgrid.com)** - 
+  </details>
+- **[]()** - 
 
 
 ### 🎨 Design & Creativity
