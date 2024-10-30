@@ -189,6 +189,12 @@ For websites and tools focused on security, hacking, and penetration testing:
   - **[ahmia.fi/](https://ahmia.fi/)** -
   - **[tor.link/site/not-evil/info](https://tor.link/site/not-evil/info)** -
 - **[send](https://send.vis.ee/)** -
+- **[Repo](#repo)** -
+  -**Tools-Collection](https://github.com/alx-xlx/Tools-Collection)** -
+  -**[web-skills](https://github.com/alx-xlx/web-skills)** -
+  -**[websites](https://github.com/alx-xlx/websites)** -
+  -**[awesome-forums](https://github.com/alx-xlx/awesome-forums?tab=readme-ov-file)** - 
+  -**[awesome-survival](https://github.com/alx-xlx/awesome-survival)** - 
 (*... more websites to be added as I continue my journey...*)
 
 ---
