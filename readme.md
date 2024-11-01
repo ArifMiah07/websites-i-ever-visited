@@ -112,7 +112,7 @@ Platforms and resources that offer learning and tutorials for developers, design
   </details>
 - **[devdocs.io](https://devdocs.io/)** - Collection of Programming language documentations
 - **[medium.com](https://medium.com/)** -
-- **[]()** - 
+- **[quora.com/](https://www.quora.com/)** - 
  
 
 ### 💻 Development Tools
