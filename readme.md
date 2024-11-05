@@ -115,7 +115,8 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[medium.com](https://medium.com/)** -
 - **[quora.com/](https://www.quora.com/)** -
 - **[stackoverflow.com](https://stackoverflow.com/)** -
-- **[learnxinyminutes.com](https://learnxinyminutes.com)** - 
+- **[learnxinyminutes.com](https://learnxinyminutes.com)** -
+- **[iask.ai](https://iask.ai/)** - 
  
 
 ### 💻 Development Tools
@@ -179,6 +180,8 @@ Websites for design inspiration, prototyping, and creativity:
     - **[hailuoai](https://hailuoai.video/)** -
     - **[klingai](https://klingai.com/)** -
     - **[react-icons](https://react-icons.github.io/react-icons/)** -
+- **[gamma.app](https://gamma.app/)** -
+- **[]()** - 
 
 ### 🔧 Miscellaneous Tools & Communities
 Additional websites that offer unique utilities or communities:
