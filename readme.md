@@ -35,7 +35,7 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[daily.dev](https://www.daily.dev)** - A platform offering curated daily news and updates for developers.
 - **[dev.to](https://www.dev.to)** - A community of developers sharing articles, discussions, and projects.
 - **[chatgpt.com](https://www.chatgpt.com)** - AI-powered tool for learning and problem-solving.
-- **[claude.ai](https://claude.ai/)
+- **[claude.ai](https://claude.ai/)** -
 - **[ciciai](https://www.ciciai.com)** - Ai chatbot 
 - **[youtube.com](https://www.youtube.com)** - Video tutorials, courses, and guides on various topics.
 - **[codepen.io](https://www.codepen.io)** - Front-end playground to experiment with code and learn new techniques.
