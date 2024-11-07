@@ -156,7 +156,8 @@ Tools and platforms essential for web and software development:
     - **[Bulma](https://bulma.io)** -
     - **[Reflexgrid](https://reflexgrid.com)** - 
   </details>
-- **[uiverse.io](https://uiverse.io/)** - 
+- **[uiverse.io](https://uiverse.io/)** -
+- **[Font Awesome](Font Awesome - https://fontawesome.com)** -
 
 
 ### 🎨 Design & Creativity
