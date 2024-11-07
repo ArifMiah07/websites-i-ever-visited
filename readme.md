@@ -157,7 +157,7 @@ Tools and platforms essential for web and software development:
     - **[Reflexgrid](https://reflexgrid.com)** - 
   </details>
 - **[uiverse.io](https://uiverse.io/)** -
-- **[Font Awesome](Font Awesome - https://fontawesome.com)** -
+- **[Font Awesome](https://fontawesome.com)** -
 
 
 ### 🎨 Design & Creativity
