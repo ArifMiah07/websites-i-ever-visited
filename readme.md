@@ -116,7 +116,9 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[quora.com/](https://www.quora.com/)** -
 - **[stackoverflow.com](https://stackoverflow.com/)** -
 - **[learnxinyminutes.com](https://learnxinyminutes.com)** -
-- **[iask.ai](https://iask.ai/)** - 
+- **[iask.ai](https://iask.ai/)** -
+- **[jsdoc.app](https://jsdoc.app/)** - 
+- **[tsdoc.org](https://tsdoc.org/)** - 
  
 
 ### 💻 Development Tools
