@@ -160,6 +160,7 @@ Tools and platforms essential for web and software development:
   </details>
 - **[uiverse.io](https://uiverse.io/)** -
 - **[Font Awesome](https://fontawesome.com)** -
+- **[Line Awesome](https://icons8.com/line-awesome)** -
 
 
 ### 🎨 Design & Creativity
