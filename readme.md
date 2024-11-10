@@ -118,7 +118,8 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[learnxinyminutes.com](https://learnxinyminutes.com)** -
 - **[iask.ai](https://iask.ai/)** -
 - **[jsdoc.app](https://jsdoc.app/)** - 
-- **[tsdoc.org](https://tsdoc.org/)** - 
+- **[tsdoc.org](https://tsdoc.org/)** -
+
  
 
 ### 💻 Development Tools
@@ -185,6 +186,7 @@ Websites for design inspiration, prototyping, and creativity:
     - **[klingai](https://klingai.com/)** -
     - **[react-icons](https://react-icons.github.io/react-icons/)** -
 - **[gamma.app](https://gamma.app/)** -
+- **[vectr.com](https://vectr.com/design/)** - 
 - **[]()** - 
 
 ### 🔧 Miscellaneous Tools & Communities
