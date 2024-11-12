@@ -186,7 +186,8 @@ Websites for design inspiration, prototyping, and creativity:
     - **[klingai](https://klingai.com/)** -
     - **[react-icons](https://react-icons.github.io/react-icons/)** -
 - **[gamma.app](https://gamma.app/)** -
-- **[vectr.com](https://vectr.com/design/)** - 
+- **[vectr.com](https://vectr.com/design/)** -
+- **[pixilart.com](https://www.pixilart.com/draw?)** - 
 - **[]()** - 
 
 ### 🔧 Miscellaneous Tools & Communities
