@@ -188,7 +188,7 @@ Websites for design inspiration, prototyping, and creativity:
 - **[gamma.app](https://gamma.app/)** -
 - **[vectr.com](https://vectr.com/design/)** -
 - **[pixilart.com](https://www.pixilart.com/draw?)** - 
-- **[]()** - 
+- **[webwhiteboard.com](https://webwhiteboard.com/)** - 
 
 ### 🔧 Miscellaneous Tools & Communities
 Additional websites that offer unique utilities or communities:
