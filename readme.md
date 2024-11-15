@@ -162,6 +162,7 @@ Tools and platforms essential for web and software development:
 - **[uiverse.io](https://uiverse.io/)** -
 - **[Font Awesome](https://fontawesome.com)** -
 - **[Line Awesome](https://icons8.com/line-awesome)** -
+- **[Icon Finder](https://www.iconfinder.com)** - 
 
 
 ### 🎨 Design & Creativity
