@@ -191,7 +191,8 @@ Websites for design inspiration, prototyping, and creativity:
 - **[vectr.com](https://vectr.com/design/)** -
 - **[pixilart.com](https://www.pixilart.com/draw?)** - 
 - **[webwhiteboard.com](https://webwhiteboard.com/)** -
-- **[sketchpad](https://sketch.io/sketchpad/)** - 
+- **[sketchpad](https://sketch.io/sketchpad/)** -
+- **[Google Fonts](https://fonts.google.com)**
 
 ### 🔧 Miscellaneous Tools & Communities
 Additional websites that offer unique utilities or communities:
