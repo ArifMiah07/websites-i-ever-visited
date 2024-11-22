@@ -119,8 +119,11 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[iask.ai](https://iask.ai/)** -
 - **[jsdoc.app](https://jsdoc.app/)** - 
 - **[tsdoc.org](https://tsdoc.org/)** - 
-**[mathjs.org](https://mathjs.org/)** - 
-
+- **[mathjs.org](https://mathjs.org/)** -
+- **[javascript canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)** -
+- **[WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)** -
+- **[SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)** -
+- **[Web Audio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)** - 
  
 
 ### 💻 Development Tools
