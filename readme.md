@@ -118,7 +118,8 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[learnxinyminutes.com](https://learnxinyminutes.com)** -
 - **[iask.ai](https://iask.ai/)** -
 - **[jsdoc.app](https://jsdoc.app/)** - 
-- **[tsdoc.org](https://tsdoc.org/)** -
+- **[tsdoc.org](https://tsdoc.org/)** - 
+**[mathjs.org](https://mathjs.org/)** - 
 
  
 
