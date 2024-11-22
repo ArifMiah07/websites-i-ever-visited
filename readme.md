@@ -192,7 +192,8 @@ Websites for design inspiration, prototyping, and creativity:
 - **[pixilart.com](https://www.pixilart.com/draw?)** - 
 - **[webwhiteboard.com](https://webwhiteboard.com/)** -
 - **[sketchpad](https://sketch.io/sketchpad/)** -
-- **[Google Fonts](https://fonts.google.com)**
+- **[Google Fonts](https://fonts.google.com)** -
+- **[DaFont](https://www.dafont.com)** -
 
 ### 🔧 Miscellaneous Tools & Communities
 Additional websites that offer unique utilities or communities:
