@@ -124,7 +124,8 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)** -
 - **[SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)** -
 - **[Web Audio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)** -
-- **[jsxgraph](https://jsxgraph.uni-bayreuth.de/wp/)** - 
+- **[jsxgraph](https://jsxgraph.uni-bayreuth.de/wp/)** -
+- **[tandfonline.com](https://www.tandfonline.com/)** - 
  
 
 ### 💻 Development Tools
