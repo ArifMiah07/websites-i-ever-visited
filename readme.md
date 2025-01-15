@@ -34,6 +34,7 @@ The goal of this repository is to document and share noteworthy websites that ha
 Platforms and resources that offer learning and tutorials for developers, designers, and tech enthusiasts:
 - **[daily.dev](https://www.daily.dev)** - A platform offering curated daily news and updates for developers.
 - **[dev.to](https://www.dev.to)** - A community of developers sharing articles, discussions, and projects.
+- **[boot.dev](https://www.boot.dev/)** - 
 - **[chatgpt.com](https://www.chatgpt.com)** - AI-powered tool for learning and problem-solving.
 - **[claude.ai](https://claude.ai/)** -
 - **[ciciai](https://www.ciciai.com)** - Ai chatbot 
