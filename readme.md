@@ -175,7 +175,8 @@ Tools and platforms essential for web and software development:
 - **[browserling.com](https://www.browserling.com/tools)** - We're obsessed with making web developers' lives easier at Browserling, so we created a collection of the most popular developer tools all in one place. We love simplicity so we made them very simple and obvious how to use. There are no ads, bloated dialogs, or useless checkboxes. Just tools and all free. Press a button – get the result. These tools are also super useful for various cross-browser testing tasks. Here they are!
 - **[gsap.com](https://gsap.com/)** - GSAP, or GreenSock Animation Platform, is a JavaScript library that allows developers to create animations for web pages:
 - **[motion.dev](https://motion.dev/)** -
-- **[dev](https://expo.dev/)** - 
+- **[dev](https://expo.dev/)** -
+- **[postman.com](https://www.postman.com/)** -
 
 
 ### 🎨 Design & Creativity
