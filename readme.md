@@ -212,6 +212,7 @@ Websites for design inspiration, prototyping, and creativity:
 - **[green-wall.leoku.dev](https://green-wall.leoku.dev/)** - a GitHub contributions graph generator that allows users to showcase their contributions on their GitHub README or website.
 - **[shapedivider.app](https://www.shapedivider.app/)** -
 - **[calltoinspiration.com/](https://calltoinspiration.com/)** -
+- **[flaticon.com/](https://www.flaticon.com/)** - 
 
 ### 🔧 Miscellaneous Tools & Communities
 Additional websites that offer unique utilities or communities:
