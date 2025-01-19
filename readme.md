@@ -135,6 +135,7 @@ Tools and platforms essential for web and software development:
 - **[huggingface.co](https://www.huggingface.co)** - Platform for NLP and AI models and tools.
 - **[github.com](https://www.github.com)** - Version control and collaborative coding.
 - **[mongodb.com](https://www.mongodb.com)** - NoSQL database for managing large-scale data.
+- **[expressjs.com/](https://expressjs.com/)** - 
 - **[npmjs.com](https://www.npmjs.com)** - Node Package Manager, a hub for JavaScript packages.
 - **[reactrouter.com](https://reactrouter.com)** - Declarative routing for React applications.
 - **[reactjs.org](https://reactjs.org)** - JavaScript library for building user interfaces.
