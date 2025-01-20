@@ -140,7 +140,9 @@ Tools and platforms essential for web and software development:
 - **[reactrouter.com](https://reactrouter.com)** - Declarative routing for React applications.
 - **[reactjs.org](https://reactjs.org)** - JavaScript library for building user interfaces.
 - **[react.dev](https://react.dev/)** -
-- **[redux.js.org/](https://redux.js.org/)** - 
+- **[redux.js.org/](https://redux.js.org/)** -
+- **[react-redux.js.org/](https://react-redux.js.org/)** -
+- **[redux-toolkit.js.org/](https://redux-toolkit.js.org/)** - 
 - **[reactnative.dev](https://reactnative.dev/)** -
 - **[ant.design](https://ant.design/)** -
 - **[nextjs.org](https://nextjs.org/)** -
