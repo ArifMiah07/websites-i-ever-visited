@@ -36,6 +36,7 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[dev.to](https://www.dev.to)** - A community of developers sharing articles, discussions, and projects.
 - **[boot.dev](https://www.boot.dev/)** - 
 - **[chatgpt.com](https://www.chatgpt.com)** - AI-powered tool for learning and problem-solving.
+- **[deepseek.com](https://chat.deepseek.com/)** - 
 - **[claude.ai](https://claude.ai/)** -
 - **[ciciai](https://www.ciciai.com)** - Ai chatbot 
 - **[youtube.com](https://www.youtube.com)** - Video tutorials, courses, and guides on various topics.
