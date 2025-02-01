@@ -128,7 +128,8 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[Web Audio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)** -
 - **[jsxgraph](https://jsxgraph.uni-bayreuth.de/wp/)** -
 - **[tandfonline.com](https://www.tandfonline.com/)** -
-- **[jstor.org](https://www.jstor.org/)** - 
+- **[jstor.org](https://www.jstor.org/)** -
+- **[zelo.wtf/](https://zelo.wtf/)** - master class from a senior dev
  
 
 ### 💻 Development Tools
