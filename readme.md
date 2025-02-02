@@ -219,7 +219,8 @@ Websites for design inspiration, prototyping, and creativity:
 - **[shapedivider.app](https://www.shapedivider.app/)** -
 - **[calltoinspiration.com/](https://calltoinspiration.com/)** -
 - **[flaticon.com/](https://www.flaticon.com/)** -
-- **[flyonui.com/](https://flyonui.com/)** - 
+- **[flyonui.com/](https://flyonui.com/)** -
+- **[particular-drift](https://github.com/collidingScopes/particular-drift)** - Turn images into flowing particle animations. Built with js, webgl / glsl, and html5 canvas 
 
 ### 🔧 Miscellaneous Tools & Communities
 Additional websites that offer unique utilities or communities:
