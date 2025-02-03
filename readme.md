@@ -184,7 +184,9 @@ Tools and platforms essential for web and software development:
 - **[dev](https://expo.dev/)** -
 - **[postman.com](https://www.postman.com/)** -
 - **[omatsuri.app](https://omatsuri.app/)** -
-- **[is-a.dev/](https://is-a.dev/)** - 
+- **[is-a.dev/](https://is-a.dev/)** -
+- **[google fonts](https://fonts.google.com)** -
+- **[dafont.com](https://www.dafont.com)** - 
 
 
 ### 🎨 Design & Creativity
