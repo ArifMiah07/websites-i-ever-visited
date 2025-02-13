@@ -187,7 +187,8 @@ Tools and platforms essential for web and software development:
 - **[is-a.dev/](https://is-a.dev/)** -
 - **[google fonts](https://fonts.google.com)** -
 - **[dafont.com](https://www.dafont.com)** -
-- **[HTML Validator](https://validator.w3.org)** - 
+- **[HTML Validator](https://validator.w3.org)** -
+- **[CSS Validator](https://jigsaw.w3.org/css-validator)** -
 
 
 ### 🎨 Design & Creativity
