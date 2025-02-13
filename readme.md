@@ -186,7 +186,8 @@ Tools and platforms essential for web and software development:
 - **[omatsuri.app](https://omatsuri.app/)** -
 - **[is-a.dev/](https://is-a.dev/)** -
 - **[google fonts](https://fonts.google.com)** -
-- **[dafont.com](https://www.dafont.com)** - 
+- **[dafont.com](https://www.dafont.com)** -
+- **[HTML Validator](https://validator.w3.org)** - 
 
 
 ### 🎨 Design & Creativity
