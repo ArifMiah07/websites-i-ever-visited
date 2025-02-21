@@ -130,6 +130,7 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[tandfonline.com](https://www.tandfonline.com/)** -
 - **[jstor.org](https://www.jstor.org/)** -
 - **[zelo.wtf/](https://zelo.wtf/)** - master class from a senior dev
+- **[theresanaiforthat](https://theresanaiforthat.com/)** - 30,622 AI tools for 15,934 tasks and 4,986 jobs. 
  
 
 ### 💻 Development Tools
