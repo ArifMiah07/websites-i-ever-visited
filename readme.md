@@ -227,7 +227,8 @@ Websites for design inspiration, prototyping, and creativity:
 - **[flaticon.com/](https://www.flaticon.com/)** -
 - **[flyonui.com/](https://flyonui.com/)** -
 - **[particular-drift](https://github.com/collidingScopes/particular-drift)** - Turn images into flowing particle animations. Built with js, webgl / glsl, and html5 canvas
-- **[Pexels](https://www.pexels.com)** - 
+- **[Pexels](https://www.pexels.com)** -
+- **[RealFaviconGenerator](https://realfavicongenerator.net)** - 
 
 ### 🔧 Miscellaneous Tools & Communities
 Additional websites that offer unique utilities or communities:
