@@ -230,7 +230,8 @@ Websites for design inspiration, prototyping, and creativity:
 - **[Pexels](https://www.pexels.com)** -
 - **[RealFaviconGenerator](https://realfavicongenerator.net)** -
 - **[Favicon.io](https://favicon.io)** - 
-- **[Favicon Generator](https://www.favicon-generator.org)** - 
+- **[Favicon Generator](https://www.favicon-generator.org)** -
+- **[Google Mobile-Friendly](https://search.google.com/test/mobile-friendly)** - 
 
 ### 🔧 Miscellaneous Tools & Communities
 Additional websites that offer unique utilities or communities:
