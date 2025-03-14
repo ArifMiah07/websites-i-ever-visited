@@ -131,6 +131,7 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[jstor.org](https://www.jstor.org/)** -
 - **[zelo.wtf/](https://zelo.wtf/)** - master class from a senior dev
 - **[theresanaiforthat](https://theresanaiforthat.com/)** - 30,622 AI tools for 15,934 tasks and 4,986 jobs. 
+- **[operating-system-in-1000-lines(https://operating-system-in-1000-lines.vercel.app/en/)** - Operating System in 1,000 Lines 
  
 
 ### 💻 Development Tools
