@@ -239,7 +239,8 @@ Websites for design inspiration, prototyping, and creativity:
 ### 🔧 Miscellaneous Tools & Communities
 Additional websites that offer unique utilities or communities:
 - **[reddit.com](https://www.reddit.com)** - Community-driven discussions and resources on various topics.
-- **[app.gitter.im](https://app.gitter.im/) - a free, open-source chat room and instant messaging system for developers and users of GitHub and GitLab repositorie
+- **[app.gitter.im](https://app.gitter.im/)** - a free, open-source chat room and instant messaging system for developers and users of GitHub and GitLab repositorie
+- **[ycombinator.com/](https://www.ycombinator.com/)** - 
 
 ### 🔒 Security & Penetration Testing
 For websites and tools focused on security, hacking, and penetration testing:
