@@ -192,7 +192,8 @@ Tools and platforms essential for web and software development:
 - **[HTML Validator](https://validator.w3.org)** -
 - **[CSS Validator](https://jigsaw.w3.org/css-validator)** -
 - **[transform.tools](https://transform.tools/)** -
-- **[same.dev/](https://same.dev/)** - clone any website 
+- **[same.dev/](https://same.dev/)** - clone any website
+- **[Google PageSpeed](https://developers.google.com/speed/pagespeed/insights)** - 
 
 
 ### 🎨 Design & Creativity
