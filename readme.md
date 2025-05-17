@@ -53,6 +53,7 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[arxiv](https://arxiv.org/)** -
 - **[pubmed](https://pubmed.ncbi.nlm.nih.gov/)** -
 - **[eloquentjavascript](https://eloquentjavascript.net/)** -
+- **[developers.google.com/search/docs](https://developers.google.com/search/docs)** - 
 - **[92 Markdown Editors](https://www.getfreeebooks.com/markdown-editors-and-tools-for-all-your-writing-needs/)** - 92 Markdown Editors and Tools for All Your Writing Needs
 - **[discord](https://discord.com/)** - Discord is great for playing games and chilling with friends, or even building a worldwide community.
 - **[genial-code.com](https://genial-code.com/)** - Download Programming Books Free PDF for a valuable resource in enhancing your coding skills. Explore the world of programming for free! | Free download latest project source code in Python, machine learning, php, html , artificial intelligence, asp .net and programming books.
