@@ -197,7 +197,8 @@ Tools and platforms essential for web and software development:
 - **[transform.tools](https://transform.tools/)** -
 - **[same.dev/](https://same.dev/)** - clone any website
 - **[Google PageSpeed](https://developers.google.com/speed/pagespeed/insights)** -
-- **[animejs.com/](https://animejs.com/)** - 
+- **[animejs.com/](https://animejs.com/)** -
+- **[carbon.now.sh](https://carbon.now.sh)** - 
 
 
 ### 🎨 Design & Creativity
