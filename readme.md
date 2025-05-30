@@ -243,7 +243,8 @@ Websites for design inspiration, prototyping, and creativity:
 - **[Responsive Checker](https://www.responsivedesignchecker.com)** -
 - **[piskelapp.com/](https://www.piskelapp.com/)** - For Pixel Art Creation
 - **[Pingdom](https://tools.pingdom.com)** - 
-- **[GTmetrix](https://gtmetrix.com)** - 
+- **[GTmetrix](https://gtmetrix.com)** -
+- **[wappalyzer.com](https://www.wappalyzer.com)** - 
 
 ### 🔧 Miscellaneous Tools & Communities
 Additional websites that offer unique utilities or communities:
