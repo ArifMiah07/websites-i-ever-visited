@@ -53,6 +53,7 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[arxiv](https://arxiv.org/)** -
 - **[pubmed](https://pubmed.ncbi.nlm.nih.gov/)** -
 - **[eloquentjavascript](https://eloquentjavascript.net/)** -
+- **[dspace.mit.edu](https://dspace.mit.edu/discover?rpp=10&etal=0&query=Computer+Science+and+Engineering&scope=1721.1%2F131024&group_by=none&page=5&filtertype_0=department&filter_relational_operator_0=authority&filter_0=e0388fde6789bc552d191b61eb312644)** - for research paper
 - **[developers.google.com/search/docs](https://developers.google.com/search/docs)** - 
 - **[92 Markdown Editors](https://www.getfreeebooks.com/markdown-editors-and-tools-for-all-your-writing-needs/)** - 92 Markdown Editors and Tools for All Your Writing Needs
 - **[discord](https://discord.com/)** - Discord is great for playing games and chilling with friends, or even building a worldwide community.
