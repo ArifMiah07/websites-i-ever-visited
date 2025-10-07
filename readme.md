@@ -135,7 +135,10 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[zelo.wtf/](https://zelo.wtf/)** - master class from a senior dev
 - **[theresanaiforthat](https://theresanaiforthat.com/)** - 30,622 AI tools for 15,934 tasks and 4,986 jobs. 
 - **[operating-system-in-1000-lines](https://operating-system-in-1000-lines.vercel.app/en/)** - Operating System in 1,000 Lines
-- **[excalidraw.com/](https://excalidraw.com/)** - 
+- **[excalidraw.com/](https://excalidraw.com/)** -
+- **[cses.fi/problemset](https://cses.fi/problemset/)** -  free online collection of over 300 programming problems hosted by the University of Helsinki, focused on algorithms and data structures for competitive programming practice | similar book - [https://cses.fi/book/book.pdf](https://cses.fi/book/book.pdf)
+
+
  
 
 ### 💻 Development Tools
