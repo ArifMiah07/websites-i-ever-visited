@@ -139,7 +139,8 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[cses.fi/problemset](https://cses.fi/problemset/)** -  free online collection of over 300 programming problems hosted by the University of Helsinki, focused on algorithms and data structures for competitive programming practice | similar book - [https://cses.fi/book/book.pdf](https://cses.fi/book/book.pdf)
 - **[x11_x64.html](https://gaultier.github.io/blog/x11_x64.html)** - Learn x86-64 assembly by writing a GUI from scratch
 - **[mit.edu/6.851/spring21](https://courses.csail.mit.edu/6.851/spring21/)** - 6.851: Advanced Data Structures (Spring'21)
-- **[building-a-vim-like-text-editor](https://devlogs.xyz/blog/building-a-vim-like-text-editor)** - 
+- **[building-a-vim-like-text-editor](https://devlogs.xyz/blog/building-a-vim-like-text-editor)** -
+- **[Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html)** -
 - 
 
 
