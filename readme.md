@@ -141,6 +141,7 @@ Platforms and resources that offer learning and tutorials for developers, design
 - **[mit.edu/6.851/spring21](https://courses.csail.mit.edu/6.851/spring21/)** - 6.851: Advanced Data Structures (Spring'21)
 - **[building-a-vim-like-text-editor](https://devlogs.xyz/blog/building-a-vim-like-text-editor)** -
 - **[Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html)** -
+- **[fosdem.org](https://fosdem.org/2026/)** - FOSDEM (Free and Open source Software Developers' European Meeting) is a free, annual two-day conference held in Brussels, Belgium, dedicated to open-source software. Organized by volunteers, it brings together 8,000+ developers to share, collaborate, and discuss the latest developments in the open-source world.
 - 
 
 
