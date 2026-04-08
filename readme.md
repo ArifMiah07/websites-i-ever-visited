@@ -232,7 +232,8 @@ Websites for design inspiration, prototyping, and creativity:
     - **[fliki.ai/](https://app.fliki.ai/)** -
     - **[hailuoai](https://hailuoai.video/)** -
     - **[klingai](https://klingai.com/)** -
-    - **[react-icons](https://react-icons.github.io/react-icons/)** -
+    
+- **[react-icons](https://react-icons.github.io/react-icons/)** -
 - **[gamma.app](https://gamma.app/)** -
 - **[vectr.com](https://vectr.com/design/)** -
 - **[pixilart.com](https://www.pixilart.com/draw?)** - 
