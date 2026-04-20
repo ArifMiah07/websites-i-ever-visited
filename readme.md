@@ -263,7 +263,8 @@ Websites for design inspiration, prototyping, and creativity:
 Additional websites that offer unique utilities or communities:
 - **[reddit.com](https://www.reddit.com)** - Community-driven discussions and resources on various topics.
 - **[app.gitter.im](https://app.gitter.im/)** - a free, open-source chat room and instant messaging system for developers and users of GitHub and GitLab repositorie
-- **[ycombinator.com/](https://www.ycombinator.com/)** - 
+- **[ycombinator.com/](https://www.ycombinator.com/)** -
+- **[apex.careers](https://apex.careers/)** - Apex Careers is a simple, curated job board for top engineering roles around the world.
 
 ### 🔒 Security & Penetration Testing
 For websites and tools focused on security, hacking, and penetration testing:
