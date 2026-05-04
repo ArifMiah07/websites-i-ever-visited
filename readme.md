@@ -158,7 +158,6 @@ Platforms and resources that offer learning and tutorials for developers, design
 - <details>
   <summary><b><u><span style="color: blue;">Computer Graphics Programming Resources</span></u></b><span> - List of freely available resources to study computer graphics programming.</span></summary>
 
-  - Computer Graphics Programming Resources
     # Computer Graphics Programming Resources
 
     List of freely available resources to study computer graphics programming.
@@ -516,7 +515,7 @@ Platforms and resources that offer learning and tutorials for developers, design
     - [Computer Graphics Resources](https://legends2k.github.io/note/cg_resources/)
     - [Learn Game Engine Programming](https://engine-programming.net/)
     - [GPU Optimization for GameDev](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d)
---- by https://gist.github.com/notnotrobby
+    - ```md --- by https://gist.github.com/notnotrobby```
   </details>
 
 
