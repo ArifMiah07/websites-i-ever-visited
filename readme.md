@@ -158,7 +158,7 @@ Platforms and resources that offer learning and tutorials for developers, design
 - <details>
   <summary><b><u><span style="color: blue;">Computer Graphics Programming Resources</span></u></b><span> - List of freely available resources to study computer graphics programming.</span></summary>
 
-  - CSS Frameworks
+  - Computer Graphics Programming Resources
     # Computer Graphics Programming Resources
 
     List of freely available resources to study computer graphics programming.
@@ -205,14 +205,14 @@ Platforms and resources that offer learning and tutorials for developers, design
       - [🙏 Acknowledgments](#-acknowledgments)
 
     ## Basic Path
-    0. [Creative Coding for Beginners](https://thecodingtrain.com/tracks/learning-processing/processing) [video] *(New to programming)*
-    1. [How to Start C++ Development?](https://github.com/W4RH4WK/cpp-init) [article]
-    2. [Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra) [video] [article] *(Click on "Read" for exercises)*
-    3. [3D Math Primer for Graphics and Game Development](https://gamemath.com/) [book]
-    4. [How do Video Game Graphics Work?](https://www.youtube.com/watch?v=C8YtdC8mxTU) [video]
-    5. [Ray Tracing in One Weekend](https://raytracing.github.io/) [book]
-    6. [Tiny Software Renderer](https://haqr.eu/tinyrenderer/) [article]
-    7. [Learn OpenGL](https://learnopengl.com/) [book]
+    1. [Creative Coding for Beginners](https://thecodingtrain.com/tracks/learning-processing/processing) [video] *(New to programming)*
+    2. [How to Start C++ Development?](https://github.com/W4RH4WK/cpp-init) [article]
+    3. [Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra) [video] [article] *(Click on "Read" for exercises)*
+    4. [3D Math Primer for Graphics and Game Development](https://gamemath.com/) [book]
+    5. [How do Video Game Graphics Work?](https://www.youtube.com/watch?v=C8YtdC8mxTU) [video]
+    6. [Ray Tracing in One Weekend](https://raytracing.github.io/) [book]
+    7. [Tiny Software Renderer](https://haqr.eu/tinyrenderer/) [article]
+    8. [Learn OpenGL](https://learnopengl.com/) [book]
 
     ## Getting Started
     - [Graphics Programming – Where To Start?](https://www.stefanpijnacker.nl/article/graphics-programming-where-to-start/) [article]
